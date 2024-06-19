@@ -281,7 +281,7 @@ weights. Alternatively, you can choose to manually download the necessary weight
   | :-----------: | :----: | :----------------------------------------------------------: | :------: | :-------: |
   | cogagent-chat |  1120  | Chat version of CogAgent. Supports GUI Agent, multiple-round  chat and visual grounding. |  [HF link](https://huggingface.co/THUDM/cogagent-chat-hf) <br> [OpenXLab link](https://openxlab.org.cn/models/detail/THUDM/cogagent-chat-hf)    |   [HF link](https://huggingface.co/THUDM/CogAgent/tree/main)<br> [OpenXLab link](https://openxlab.org.cn/models/detail/THUDM/CogAgent)           |
   | cogagent-vqa |  1120  | VQA version of CogAgent. Has stronger capabilities in single-turn visual dialogue. Recommended for VQA benchmarks. |  [HF link](https://huggingface.co/THUDM/cogagent-vqa-hf)<br> [OpenXLab link](https://openxlab.org.cn/models/detail/THUDM/cogagent-vqa-hf)        |    [HF link](https://huggingface.co/THUDM/CogAgent/tree/main) <br> [OpenXLab link](https://openxlab.org.cn/models/detail/THUDM/CogAgent)      |
-c
+
 - CogVLM
 
   |          Model name           | Input resolution |                           Introduction                            | Huggingface model | SAT model |
